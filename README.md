@@ -7,3 +7,5 @@ Anyone, inside or outside the task force, may contribute to the contents of this
 - [Resources](resources.md) - a list of projects, stakeholders, literature, software and alike, which are relevent to the format of executable papers.
 - [Survery](survey.md) - a survey that will be conducted by the task-force in order to get insights into the current state of executable papers and into challanges, experienced by different stakeholder.
 - [Call-for-participation](call.md) (deu) - The call-for-participation from the beginning of the task-force.
+
+For relevent literature the task-force also curates a Zoter group, which is accessible at: [https://www.zotero.org/groups/4960368/dhd_task_force_executable_papers/](https://www.zotero.org/groups/4960368/dhd_task_force_executable_papers/)
